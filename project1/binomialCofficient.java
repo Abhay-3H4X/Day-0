@@ -29,7 +29,7 @@ public class binomialCofficient {
         System.out.println("value of binomial cofficient:" + Abhay(n, r));
     }
 }
-
+// Another code for BinomialCofficient
 /*
  * import java.util.*;
  * 
